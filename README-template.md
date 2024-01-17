@@ -13,7 +13,7 @@ Los usuarios deberían poder:
 
 ### Img
 
-![](./screenshot.jpg)
+![](./desing/desktop-preview.jpg)
 
 ### Links
 
