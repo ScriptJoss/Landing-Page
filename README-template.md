@@ -11,7 +11,7 @@ Los usuarios deberían poder:
 - Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo
 - Ver estados de desplazamiento para todos los elementos interactivos en la página
 
-### Screenshot
+### Img
 
 ![](./screenshot.jpg)
 
